@@ -4,7 +4,7 @@ A modern web application where users can complete tasks and instantly generate d
 
 ---
 
-## 🚀 Features
+# 🚀 Features
 
 - ✅ User Login & Signup
 - ✅ Task Completion System
@@ -26,31 +26,13 @@ A modern web application where users can complete tasks and instantly generate d
 
 ---
 
-# 📂 Folder Structure
-
-```bash
-task-app/
-│
-├── index.html
-├── style.css
-├── script.js
-├── certificate.html
-│
-├── assets/
-│   ├── logo.png
-│   ├── signature.png
-│   └── background.jpg
-```
-
----
-
 # ⚡ How It Works
 
-1. User logs into the application
-2. User completes assigned tasks
-3. Generate Certificate button becomes active
-4. Certificate is automatically created
-5. User downloads certificate as PDF
+1. User logs into the application  
+2. User completes assigned tasks  
+3. Generate Certificate button becomes active  
+4. Certificate is automatically created  
+5. User downloads certificate as PDF  
 
 ---
 
@@ -92,28 +74,6 @@ function generateCertificate() {
 
 ---
 
-# ▶️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/task-app.git
-```
-
-Open project folder:
-
-```bash
-cd task-app
-```
-
-Run project:
-
-```bash
-index.html
-```
-
----
-
 # 🌟 Future Improvements
 
 - Firebase Authentication
@@ -141,8 +101,6 @@ This project is licensed under the MIT License.
 # 👨‍💻 Developed By
 
 ## Anand Shukla
-
-🌐 Website: https://allinax.netlify.app/
 
 ---
 
