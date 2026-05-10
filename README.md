@@ -1,19 +1,19 @@
-# 🎯 Task App With Certificate Generator
+# 🎯 TASK APP
 
-A modern web application where users can complete tasks and instantly generate downloadable certificates in PDF format.
+A modern task management web application where users can complete tasks and generate downloadable certificates instantly.
 
 ---
 
 # 🚀 Features
 
-- ✅ User Login & Signup
-- ✅ Task Completion System
+- ✅ User Authentication
+- ✅ Task Management System
+- ✅ Task Completion Tracking
 - ✅ Automatic Certificate Generation
-- ✅ PDF Download Support
+- ✅ PDF Certificate Download
 - ✅ Responsive Design
-- ✅ Modern UI
-- ✅ Certificate Verification ID
-- ✅ Custom Company Logo & Signature
+- ✅ Modern User Interface
+- ✅ Unique Certificate ID
 
 ---
 
@@ -28,11 +28,11 @@ A modern web application where users can complete tasks and instantly generate d
 
 # ⚡ How It Works
 
-1. User logs into the application  
-2. User completes assigned tasks  
-3. Generate Certificate button becomes active  
-4. Certificate is automatically created  
-5. User downloads certificate as PDF  
+1. User logs into the application
+2. User completes assigned tasks
+3. Generate Certificate button becomes active
+4. Certificate is automatically generated
+5. User downloads certificate in PDF format
 
 ---
 
@@ -42,12 +42,11 @@ A modern web application where users can complete tasks and instantly generate d
 - Task Name
 - Completion Date
 - Certificate ID
-- Company Logo
 - Digital Signature
 
 ---
 
-# 💻 Certificate Generator Example
+# 💻 Example Certificate Generator Code
 
 ```javascript
 function generateCertificate() {
@@ -76,7 +75,7 @@ function generateCertificate() {
 
 # 🌟 Future Improvements
 
-- Firebase Authentication
+- Firebase Integration
 - Admin Dashboard
 - AI Task Validation
 - QR Code Verification
